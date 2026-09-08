@@ -1,8 +1,8 @@
-# Adil Aijaz Chohan
+# Adil Chohan
 
 **Founder & CEO of [Techriv](https://techriv.com) · AI SaaS Entrepreneur & Engineer**
 
-I'm Adil Aijaz Chohan (also known as Adil Chohan) — a technical founder building AI SaaS products and the company behind them. I started Techriv to build AI-native software the right way, and I stay close to the code: I architect the systems I ship, from LLM pipelines to the interfaces people actually use. 7+ years turning ideas into products that reach real users and drive real revenue.
+I'm Adil Chohan (also known as Adil Aijaz) — a technical founder building AI SaaS products and the company behind them. I started Techriv to build AI-native software the right way, and I stay close to the code: I architect the systems I ship, from LLM pipelines to the interfaces people actually use. 7+ years turning ideas into products that reach real users and drive real revenue.
 
 ### What I'm building
 
